@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://HAPGOD.github.io</id>
-    <title>Gridea</title>
-    <updated>2024-06-13T09:18:56.252Z</updated>
+    <id>https://hapgod.github.io</id>
+    <title>HAPGOD ｜ 博客</title>
+    <updated>2024-06-13T09:31:47.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://HAPGOD.github.io"/>
-    <link rel="self" href="https://HAPGOD.github.io/atom.xml"/>
+    <link rel="alternate" href="https://hapgod.github.io"/>
+    <link rel="self" href="https://hapgod.github.io/atom.xml"/>
     <subtitle>Nothing down,nothing up.</subtitle>
-    <logo>https://HAPGOD.github.io/images/avatar.png</logo>
-    <icon>https://HAPGOD.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, Gridea</rights>
+    <logo>https://hapgod.github.io/images/avatar.png</logo>
+    <icon>https://hapgod.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, HAPGOD ｜ 博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://hapgod.github.io/about/</id>
+        <link href="https://hapgod.github.io/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<pre><code>一个隐秘的私人空间，分享所见所闻，自我成长与思考
+</code></pre>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<pre><code>阳光开朗大男孩，技术从败者
+</code></pre>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<pre><code>🎾，🏃，
+</code></pre>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://HAPGOD.github.io/hello-gridea/</id>
-        <link href="https://HAPGOD.github.io/hello-gridea/">
+        <id>https://hapgod.github.io/hello-gridea/</id>
+        <link href="https://hapgod.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
