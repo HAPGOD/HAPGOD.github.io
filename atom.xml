@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hapgod.github.io</id>
     <title>HAPGOD ｜ 博客</title>
-    <updated>2024-06-13T10:53:27.050Z</updated>
+    <updated>2024-06-13T10:54:20.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hapgod.github.io"/>
     <link rel="self" href="https://hapgod.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://hapgod.github.io/hello-gridea/">
         </link>
         <updated>2024-06-12T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://hapgod.github.io/post-images/1718275660914.jpg" alt="" loading="lazy"><br>
-之前也有零零散散的记录自己的成长和所见所闻，但是也没有系统性的发表过文章和见解，所以以此篇作为新生</p>
+        <content type="html"><![CDATA[<p>之前也有零零散散的记录自己的成长和所见所闻，但是也没有系统性的发表过文章和见解，所以以此篇作为新生</p>
 ]]></content>
     </entry>
     <entry>
